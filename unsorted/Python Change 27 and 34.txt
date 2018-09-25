@@ -1,0 +1,4 @@
+[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
+[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python34", "User")
+
+#!/usr/bin/python2

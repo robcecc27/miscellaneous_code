@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type='text/javascript'>
+window.onload=function(){
+(function() {
+    var oCount = document.getElementById('count');
+    var oResult = document.getElementById('result');
+    var nCount = 0;
+    oCount.addEventListener('click', function(e) {
+        e.preventDefault();
+        nCount += 1;
+        switch(nCount) {
+            case 1:
+                oResult.innerHTML = 'One';
+                break;
+            case 2:
+                oResult.innerHTML = 'Two';
+                break;
+            case 3:
+                oResult.innerHTML = 'Three';
+                break;            
+            default:
+                oResult.innerHTML = 'Four: You\'re done!';
+        }
+    }, false);
+})();
+}
+</script>
+</head>
+<body>
+  <a href="#" id="count">Count!</a>
+  <span id="result"></span>
+</body>
+</html>

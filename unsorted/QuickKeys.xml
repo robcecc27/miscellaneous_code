@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<QuickKeyDoc>
+<HeaderGroup>
+		<Lefthead>Press this key </Lefthead>
+		<Righthead>To do this</Righthead> 
+	</HeaderGroup>
+<QuickKeys>
+		<action>Ctrl+C (or Ctrl+Insert)</action>
+		<result>Copy the selected item </result>
+	</QuickKeys>
+<QuickKeys>
+	<action>Ctrl+X </action> 
+	<result> Cut the selected item</result>
+</QuickKeys>
+<QuickKeys>
+	<action>Ctrl+V (or Shift+Insert)</action>
+	<result> Paste the selected item </result>
+</QuickKeys>
+<QuickKeys>
+		<action>Ctrl+Z</action>
+		<result>Undo an action</result>
+	</QuickKeys>
+<QuickKeys>
+		<action>Alt+Tab</action>
+		<result>Switch between open apps (except desktop apps)</result>
+	</QuickKeys>
+<QuickKeys>
+	<action>Alt+F4</action>
+	<result>Close the active item, or exit the active app </result>
+	</QuickKeys>
+<QuickKeys>
+	<action> </action>
+	<result> </result>
+	</QuickKeys>
+<QuickKeys>
+	<action> </action>
+	<result> </result>
+	</QuickKeys>
+</QuickKeyDoc>
+
+
+
+
+Windows logo key Windows logo key +L
+Lock your PC or switch people
+Windows logo key Windows logo key +D
+Display and hide the desktop
+New keyboard shortcuts
+The following table contains new keyboard shortcuts that you can use in Windows.
+
+Press this key
+To do this
+Windows logo key‌ Windows logo key+start typing
+Search your PC
+Ctrl+plus (+) or Ctrl+minus (-)
+Zoom in or out of a large number of items, like apps pinned to the Start screen
+Ctrl+scroll wheel
+Zoom in or out of a large number of items, like apps pinned to the Start screen
+Windows logo key‌ Windows logo key+C
+Open the charms
+In an app, open the commands for the app
+Windows logo key‌ Windows logo key+F
+Open the Search charm to search files
+Windows logo key‌ Windows logo key+H
+Open the Share charm
+Windows logo key‌ Windows logo key+I
+Open the Settings charm
+Windows logo key‌ Windows logo key+K
+Open the Devices charm
+Windows logo key‌ Windows logo key+O
+Lock the screen orientation (portrait or landscape)
+Windows logo key‌ Windows logo key+Q
+Open the Search charm to search everywhere or within an open app (if the app supports app search)
+Windows logo key Windows logo key +S
+Open the Search charm to search Windows and the web
+Windows logo key‌ Windows logo key+W
+Open the Search charm to search settings
+Windows logo key‌ Windows logo key+Z
+Show the commands available in the app
+Note
+
+You can also see some settings and options by going to the Settings charm when the app is open.
+Windows logo key‌ Windows logo key+spacebar
+Switch input language and keyboard layout
+Windows logo key‌ Windows logo key+Ctrl+spacebar
+Change to a previously selected input
+Windows logo key‌ Windows logo key+Tab
+Cycle through recently used apps (except desktop apps)
+Windows logo key‌ Windows logo key+Ctrl+Tab
+Cycle through recently used apps (except desktop apps)
+Windows logo key‌ Windows logo key+Shift+Tab
+Cycle through recently used apps (except desktop apps) in reverse order
+Windows logo key‌ Windows logo key+Shift+period (.)
+Snaps an app to the left
+Windows logo key‌ Windows logo key+period (.)
+Cycle through open apps
+Esc
+Stop or exit the current task

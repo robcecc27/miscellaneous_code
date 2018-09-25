@@ -1,0 +1,12 @@
+Hello
+Funny Face
+I wanted to see this thing print
+out lots of lines 
+one after another and so on
+until I felt comfortable that I
+get 
+the 
+point
+1. 10
+2. 20
+3. 30

@@ -1,0 +1,8 @@
+Fluffy	Harold	cat	f	1993-02-04	\N
+Claws	Gwen	cat	m	1994-03-17	\N
+Buffy	Harold	dog	f	1998-05-13	\N
+Fang	Benny	dog	m	1990-08-27	1995-07-29
+Chirpy	Gwen	bird	f	1998-09-11	\N
+Whiskers	Rob	cat	m	1994-06-10	\N
+Whistler	Gwen	bird	\N	1997-12-09	\N
+Slim	Benny	snake	m	1994-04-29	\N
