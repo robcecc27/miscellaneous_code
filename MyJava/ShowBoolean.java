@@ -9,7 +9,7 @@ public class ShowBoolean
 		Scanner GetBoolean = new Scanner(System.in);
 		
 		// Obtain input from the user.
-		System.out.print("Do you like Oragens? ");
+		System.out.print("Do you like Oranges? ");
 		boolean TheTruth = GetBoolean.nextBoolean();
 		
 		//Show the results
